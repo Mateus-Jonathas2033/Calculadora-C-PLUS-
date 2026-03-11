@@ -1,4 +1,5 @@
 # Calculadora C++
 
-Calculadora de console simples que fiz com C++.
-Preferi colocar multiplicação e divisão em float para ter uma maior precisão nos cálculos, principalmente porque são operadores que costumam ter números pós virgula/ponto. Em breve, atualizarei a versão para conter as palavras acentuadas, e novas opções, como raiz...
+Calculadora de console para calcular soma, subtração, multiplicação, divisão, potência, raiz e quadrado(²). 
+Versão atualizada(1.5): formatação da ortografia, e 4 novas funcionalidades, quadrado, raiz, potência e limpeza do console.
+Layout de fácil interpretação, e bem organizado, além de calcúlos precisos com o uso de float.
